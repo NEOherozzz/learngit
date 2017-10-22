@@ -1,2 +1,4 @@
 This is my first git program.
 This is a new line.
+This is tested by gui.
+new line
